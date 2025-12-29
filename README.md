@@ -1,22 +1,22 @@
-# 🌦️Weather Modeling Using Python
-📌 Description
-This project demonstrates a simple weather (temperature) modeling program using Python.
-The temperature is calculated using a quadratic equation based on time and coefficients:
+# 🌦️Weather Modeling Using Python \
+📌 Description \
+This project demonstrates a simple weather (temperature) modeling program using Python. \
+The temperature is calculated using a quadratic equation based on time and coefficients: \
 Temperature=a×time2+b×time+c
-The program shows three different ways to provide input:
-Hard-coded values
-Keyboard input
-File input
+The program shows three different ways to provide input: \
+Hard-coded values \
+Keyboard input \
+File input \
 
-🛠️ Features
-Uses a Python function for temperature calculation
-Demonstrates user input handling
-Demonstrates file handling
-Compatible with Google Colab
+🛠️ Features \
+Uses a Python function for temperature calculation \
+Demonstrates user input handling \ 
+Demonstrates file handling \
+Compatible with Google Colab \
 
-📂 Files Used
-weather_data.txt
-Contains coefficients and time values used for file-based input.
+📂 Files Used \
+weather_data.txt \
+Contains coefficients and time values used for file-based input. \
 
 🧮 Function Used
 def temperature_modeling(a, b, c, time):
